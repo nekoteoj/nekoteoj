@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my Github 🌱🌱🌱
+
+I'm Pisit (Joe) Wajanasara. I'm currently a Ph.D. student in Computer Science at UCSD. My primary research area includes Bioinformatics, Proteomics, and Mass Spectrometry data analysis. I'm also interested in Machine Learning, NLP, and Software Development. In my free time, I like to explore new tech stuffs, and to play a guitar. I'm also a mechanical keyboard enthusiast.
+
+#### My social accounts
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisit-wajanasara/)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/compisit1234/)
 
 <!--
 **nekoteoj/nekoteoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

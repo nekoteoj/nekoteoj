@@ -7,7 +7,7 @@ I'm Pisit (Joe) Wajanasara. I'm currently a Ph.D. student in Computer Science at
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisit-wajanasara/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/compisit1234/)
 
-### My Github stats
+#### My Github stats
 
 ![Nekoteoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekoteoj&show_icons=true&count_private=true&theme=onedark)
 
